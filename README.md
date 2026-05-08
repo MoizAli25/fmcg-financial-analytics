@@ -22,7 +22,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a full-cycle Applied Business Analytics solution built on financial data from 24 Fast-Moving Consumer Goods (FMCG) companies listed under the Food and Personal Care Products category of the **Pakistan Stock Exchange (PSX)**. The project spans a **six-year horizon (2020–2025)** — a period marked by the COVID-19 pandemic, historic currency devaluations, hyperinflation, and eventual market stabilization.
 
@@ -30,7 +30,7 @@ The solution follows a complete data pipeline: from **manual-digital hybrid data
 
 ---
 
-## ❗ Problem Statement
+## Problem Statement
 
 The FMCG sector in Pakistan faced extreme financial pressure between 2020 and 2025, including:
 
@@ -47,7 +47,7 @@ This project quantifies that resilience using structured KPIs across three analy
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 | Attribute | Details |
 |-----------|---------|
@@ -69,7 +69,7 @@ This project quantifies that resilience using structured KPIs across three analy
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Layer | Technology |
 |-------|-----------|
@@ -84,7 +84,7 @@ This project quantifies that resilience using structured KPIs across three analy
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 The project is structured across four sequential phases:
 
@@ -118,7 +118,7 @@ Three Power BI dashboards developed corresponding to each data mart, delivering 
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 ### Financial Performance
 - Combined portfolio **Total Sales ≈ PKR 2,035 billion** with **PAT ≈ PKR 213.86 billion** across the analysis period.
@@ -139,7 +139,7 @@ Three Power BI dashboards developed corresponding to each data mart, delivering 
 
 ---
 
-## 📊 Dashboards & Outputs
+## Dashboards & Outputs
 
 The Power BI solution delivers three interactive dashboards:
 
@@ -150,6 +150,26 @@ The Power BI solution delivers three interactive dashboards:
 | **Financial Position** | `FinancialPositionMart` | Current Assets, Non-Current Assets, Current/Non-Current Liabilities, Net Assets, Working Capital, Current Ratio, Debt-to-Assets |
 
 All dashboards support dynamic filtering by **Company**, **Year**, and **Quarter**.
+
+# Dashboards & Outputs
+
+## Financial Performance Dashboard
+
+<p align="center">
+  <img src="images/Dashboard-1.png" width="900">
+</p>
+
+## Revenue & Profitability Dashboard
+
+<p align="center">
+  <img src="images/Dashboard-2.png" width="900">
+</p>
+
+## Financial Position Dashboard
+
+<p align="center">
+  <img src="images/Dashboard-3.png" width="900">
+</p>
 
 ### Project File Structure
 
@@ -185,7 +205,7 @@ All dashboards support dynamic filtering by **Company**, **Year**, and **Quarter
 
 ---
 
-## ▶️ How to Run This Project
+## How to Run This Project
 
 ### Prerequisites
 
@@ -252,7 +272,7 @@ Run `SQL/queries.sql` to verify:
 
 ---
 
-## ✅ Results & Conclusion
+## Results & Conclusion
 
 This project confirms that within Pakistan's FMCG sector, **financial resilience and dividend consistency are tightly correlated**. The companies identified as Dividend Leaders — Nestlé, Unilever Pakistan Foods, Rafhan Maize, Murree Brewery, and National Foods — are also the most operationally efficient and balance-sheet-strong firms in the sample.
 
@@ -276,7 +296,7 @@ Key conclusions:
 
 ---
 
-## 👨‍💻 Authors & Contact
+## Authors & Contact
 
 ### Moiz Ali Siddiqui — Student ID: 30743
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiz-ali-4b9277276/)
